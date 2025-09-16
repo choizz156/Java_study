@@ -11,30 +11,14 @@
             "id": "b8c9ec367522c008",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "환영합니다!.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Java 기본/1. 리플렉션.md",
+                "bFile": "Java 기본/1. 리플렉션.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "환영합니다!"
-            }
-          }
-        ]
-      },
-      {
-        "id": "86c09aea11c39ec9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cb28ab8ecc39f99a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "icon": "diff",
+              "title": "Diff: 1. 리플렉션"
             }
           }
         ]
@@ -94,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1ff86de035d21216",
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "1. 리플렉션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "환영합니다! 의 백링크"
+              "title": "1. 리플렉션 의 백링크"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "1. 리플렉션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "환영합니다! 의 나가는 링크"
+              "title": "1. 리플렉션 의 나가는 링크"
             }
           },
           {
@@ -158,21 +142,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "환영합니다!.md",
+                "file": "1. 리플렉션.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "환영합니다! 의 개요"
+              "title": "1. 리플렉션 의 개요"
+            }
+          },
+          {
+            "id": "7b07124eee9322a4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 702.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,11 +176,16 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b8c9ec367522c008",
   "lastOpenFiles": [
+    "Java 기본/1. 리플렉션.md",
+    "README.md",
+    "무제.base",
+    "Java 기본",
     "환영합니다!.md"
   ]
 }
