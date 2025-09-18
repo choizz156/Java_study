@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8c9ec367522c008",
+            "id": "f1b511dcca383f08",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Java 기본/1. 리플렉션.md",
-                "bFile": "Java 기본/1. 리플렉션.md",
+                "aFile": "Java 기본/3. Concurrency.md",
+                "bFile": "Java 기본/3. Concurrency.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 1. 리플렉션"
+              "title": "Diff: 3. Concurrency"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 702.5
+    "width": 816.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,9 +180,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8c9ec367522c008",
+  "active": "7b07124eee9322a4",
   "lastOpenFiles": [
+    "asset/Pasted image 20250918173900.png",
+    "Java 기본/3. Concurrency.md",
+    "asset",
+    "Pasted image 20250918172649.png",
+    "Pasted image 20250918173238.png",
+    "Pasted image 20250918172700.png",
     "Java 기본/1. 리플렉션.md",
+    "Java 기본/2. 애노테이션.md",
     "README.md",
     "무제.base",
     "Java 기본",
