@@ -11,14 +11,14 @@
             "id": "f1b511dcca383f08",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Java 기본/3. Concurrency.md",
-                "bFile": "Java 기본/3. Concurrency.md",
-                "aRef": ""
+                "file": "Java 기본/3. Java Thread.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 3. Concurrency"
+              "icon": "lucide-file",
+              "title": "3. Java Thread"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1ff86de035d21216",
@@ -166,7 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 816.5
+    "width": 412.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,16 +183,16 @@
   },
   "active": "7b07124eee9322a4",
   "lastOpenFiles": [
+    "Java 기본/3. Java Thread.md",
+    "Java 기본/1. 리플렉션.md",
+    "Java 기본/2. 애노테이션.md",
+    "무제.base",
     "asset/Pasted image 20250918173900.png",
-    "Java 기본/3. Concurrency.md",
     "asset",
     "Pasted image 20250918172649.png",
     "Pasted image 20250918173238.png",
     "Pasted image 20250918172700.png",
-    "Java 기본/1. 리플렉션.md",
-    "Java 기본/2. 애노테이션.md",
     "README.md",
-    "무제.base",
     "Java 기본",
     "환영합니다!.md"
   ]
