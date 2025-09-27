@@ -11,14 +11,14 @@
             "id": "f1b511dcca383f08",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Java 기본/3. Java Thread.md",
-                "bFile": "Java 기본/3. Java Thread.md",
-                "aRef": ""
+                "file": "Java 기본/3. Java Thread.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 3. Java Thread"
+              "icon": "lucide-file",
+              "title": "3. Java Thread"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 541.5
+    "width": 644.5
   },
   "left-ribbon": {
     "hiddenItems": {
