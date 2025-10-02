@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 기본/3. Java Thread.md",
+                "file": "Java 기본/4. 동기화.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Java Thread"
+              "title": "4. 동기화"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "f1b511dcca383f08",
   "lastOpenFiles": [
-    "asset/Pasted image 20251001142032.png",
     "Java 기본/3. Java Thread.md",
+    "Java 기본/4. 동기화.md",
+    "asset/Pasted image 20251001142032.png",
     "asset/Pasted image 20250929111608.png",
     "Java 기본/1. 리플렉션.md",
     "Java 기본/2. 애노테이션.md",
