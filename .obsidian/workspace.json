@@ -24,14 +24,13 @@
             "id": "609d038b73f5a76f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Java 기본/5. 동기화 기법.md",
-                "mode": "source",
-                "source": false
+                "file": "무제.base",
+                "viewName": "표"
               },
-              "icon": "lucide-file",
-              "title": "5. 동기화 기법"
+              "icon": "lucide-table",
+              "title": "무제"
             }
           }
         ],
@@ -196,8 +195,9 @@
   },
   "active": "609d038b73f5a76f",
   "lastOpenFiles": [
-    "무제.base",
+    "asset/Pasted image 20251019193935.png",
     "Java 기본/5. 동기화 기법.md",
+    "무제.base",
     "Java 기본/1. 리플렉션.md",
     "Java 기본/4. 동기화.md",
     "Java 기본/3. Java Thread.md",
