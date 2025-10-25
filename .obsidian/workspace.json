@@ -26,12 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java 기본/5. 동기화 기법.md",
+                "file": "Java 기본/6. Synchronization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. 동기화 기법"
+              "title": "6. Synchronization"
             }
           }
         ],
@@ -196,9 +196,10 @@
   },
   "active": "609d038b73f5a76f",
   "lastOpenFiles": [
+    "Java 기본/5. 동기화 기법.md",
+    "Java 기본/6. Synchronization.md",
     "무제.base",
     "asset/Pasted image 20251019193935.png",
-    "Java 기본/5. 동기화 기법.md",
     "Java 기본/1. 리플렉션.md",
     "Java 기본/4. 동기화.md",
     "Java 기본/3. Java Thread.md",
